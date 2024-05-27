@@ -39,6 +39,11 @@
     font-size: 1.5rem;
 }
 
+.tagline{
+    position: absolute;
+    bottom: 1;
+    left: 3;
+}
 @media (max-width: 600px) {
     .container{
         width: 90vw;
