@@ -28,7 +28,6 @@ export default function RandomQuote() {
           <img src={cycle} onClick ={()=>random()}alt="" />
           <img src={twiter} onClick={()=> twitterpost()} alt="" />
         </div>
-        <h1>Developed with Love by Basat Maqsood</h1>
       </div>
     </div>
   );
