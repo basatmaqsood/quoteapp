@@ -41,8 +41,7 @@
 
 .tagline{
     position: absolute;
-    bottom: 1;
-    left: 3;
+    bottom: 2;
 }
 @media (max-width: 600px) {
     .container{

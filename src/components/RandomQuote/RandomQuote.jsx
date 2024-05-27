@@ -29,7 +29,7 @@ export default function RandomQuote() {
           <img src={twiter} onClick={()=> twitterpost()} alt="" />
         </div>
       </div>
-      <h6 className="tagline">Developed with Love By Basat Maqsood</h6>
+
     </div>
   );
 }
